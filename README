@@ -79,6 +79,8 @@ most important being:
 - Analogue Models: BreakpointPathlossModel and PERModel (since MiXiM v2.1)
   (c) by Jerome Rousselot (jerome.rousselot@csem.ch)
 
+- 1609.3 RSU Models:
+  (c) by sun and rmc
 
 
 MiXiM further includes the "Mixnet" (since MiXiM v2.0) project which provides 
