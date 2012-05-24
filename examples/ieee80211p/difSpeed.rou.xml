@@ -1,0 +1,41 @@
+<routes>
+    <vType accel="1.0" decel="5.0" id="Car" length="5.0" minGap="2.6" maxSpeed="70.0" sigma="0.5" />
+    <vType accel="2.0" decel="5.0" id="Car1" length="5.0" minGap="2.6" maxSpeed="100.0" sigma="0.2" />
+    <route id="route0" edges="1to2 2to3 out"/>
+    <route id="route1" edges="2to3 out"/>
+<vehicle id="veh0" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh1" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh2" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh3" type="Car" route="route0" depart="0" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh4" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh5" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh6" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh7" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh8" type="Car" route="route0" depart="1" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh9" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh10" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh11" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh12" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh13" type="Car" route="route0" depart="0" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh14" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh15" type="Car1" route="route0" depart="10" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh16" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh17" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh18" type="Car" route="route0" depart="0" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh19" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh20" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh21" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh22" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh23" type="Car" route="route0" depart="0" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh24" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh25" type="Car1" route="route0" depart="100" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh26" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh27" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh28" type="Car" route="route0" depart="5" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh29" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh30" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+<vehicle id="veh31" type="Car" route="route0" depart="0" departLane="1" departSpeed="30" color="1,0,0"/>
+<vehicle id="veh32" type="Car" route="route0" depart="0" departLane="2" departSpeed="25" color="1,0,0"/>
+<vehicle id="veh33" type="Car" route="route0" depart="0" departLane="1" departSpeed="38" color="1,0,0"/>
+<vehicle id="veh34" type="Car1" route="route0" depart="0" departLane="0" departSpeed="0" color="1,0,0"/>
+</routes>
